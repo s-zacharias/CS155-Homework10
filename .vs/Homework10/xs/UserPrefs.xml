@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BB449FF1-CDFE-445C-9FB9-121ABC0F0789}|Default">
+  <MonoDevelop.Ide.ItemProperties.Project1 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Project1/AlienPack.cs">
+    <Files>
+      <File FileName="Project1/Program.cs" Line="13" Column="1" />
+      <File FileName="Project1/Alien.cs" Line="15" Column="2" />
+      <File FileName="Project1/AlienPack.cs" Line="4" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework10" expanded="True">
+            <Node name="Project1" expanded="True">
+              <Node name="AlienPack.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
